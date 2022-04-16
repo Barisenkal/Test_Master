@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Baris-Gaming-PC/AndroidStudioProjects/Test_Master/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/Baris-Gaming-PC/AndroidStudioProjects/Test_Master/app/src/main/res/layout/activity_fahrzeugdaten.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Baris-Gaming-PC/AndroidStudioProjects/Test_Master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Baris-Gaming-PC/AndroidStudioProjects/Test_Master/app/src/main/res/layout/activity_pers_daten.xml" value="0.33" />
       </map>
     </option>
   </component>
