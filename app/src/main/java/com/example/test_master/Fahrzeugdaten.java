@@ -18,7 +18,7 @@ public class Fahrzeugdaten extends AppCompatActivity {
         button3.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(Fahrzeugdaten.this,Termin_buchen.class));
+                startActivity(new Intent(Fahrzeugdaten.this, TerminBuchen.class));
             }
         });
     }

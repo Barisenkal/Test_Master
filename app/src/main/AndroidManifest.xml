@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Test_Master">
         <activity
-            android:name=".Termin_buchen"
+            android:name=".TerminBuchen"
             android:exported="false" />
         <activity
             android:name=".Fahrzeugdaten"
